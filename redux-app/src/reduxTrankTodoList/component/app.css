@@ -1,0 +1,33 @@
+.todoApp {
+    width: 50%;
+    padding: 10px;
+    margin: 0 auto;
+
+}
+
+.TodoHeader {
+    padding: 20px 0;
+
+}
+
+.TodoListBody {
+
+    margin-top: 10px;
+
+}
+
+.Footer {
+    padding-left: 20px;
+    line-height: 30px;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.Footer>span {
+    color: rgb(110, 109, 109);
+    line-height: 40px;
+
+}
+.ant-row{
+    width: 100%;
+}
